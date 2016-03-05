@@ -1,11 +1,11 @@
 {
-  "name": "template-node-live",
+  "name": "fcc-portfolio",
   "version": "1.0.0",
-  "description": "Base template for new projects",
+  "description": "Portfolio for the freeCodeCamp.com curriculum.",
   "main": "server.js",
   "author": "Scott Wilson",
   "dependencies": {
-    "express": "^4.13.4"       
+    "express": "^4.13.4"
   },
   "devDependencies": {
     "gulp-livereload": "^3.8.1",
